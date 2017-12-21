@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true"
+            android:scrollbars="none"
+            android:id="@+id/scrollView">
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#FFFBC9"
+                android:orientation="vertical">
+
+            <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="#FFFBC9"
+                    android:orientation="vertical"
+                    android:layout_marginBottom="50dp">
+
+                <!-- Start Linear Layout Header -->
+                <LinearLayout
+                        android:id="@+id/HeaderLinearLayout"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#FFF1B5"
+                        android:orientation="horizontal">
+
+                    <!-- Start Blank Space -->
+                    <View
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:layout_weight=".2"/>
+                    <!-- End Blank Space -->
+
+                    <!-- Start Header Logo Image -->
+                    <ImageView
+                            android:id="@+id/logo_index"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:adjustViewBounds="true"
+                            android:src="@drawable/icon_logopanjang"
+                            android:contentDescription="@string/app_name"/>
+                    <!-- End Header Logo Image -->
+
+                    <!-- Start Blank Space -->
+                    <View
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:layout_weight=".2"/>
+                    <!-- End Blank Space -->
+
+                </LinearLayout>
+                <!-- End Linear Layout Header -->
+
+				<!-- Start Text Alarm Imunisasi -->
+                <TextView
+                        android:id="@+id/button_alarmimunisasi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/button_alarmimunisasi"
+                        android:textColor="#D046F2"
+                        style="@android:style/TextAppearance.DeviceDefault.Medium"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginBottom="10dp"/>
+				<!-- End Text Alarm Imunisasi -->
+
+                <!-- Start Linear Layout Profil -->
+                <LinearLayout
+                        android:id="@+id/ProfilLinearLayout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:paddingRight="10dp"
+                        android:background="@drawable/button_rounded"
+                        android:gravity="left">
+
+                    <!-- Start Button Profil -->
+                    <Button
+                            android:id="@+id/button_profil"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/icon_profil"
+                            android:layout_margin="5dp"
+                            android:layout_gravity="center_vertical"/>
+                    <!-- End Button Profil -->
+
+                    <!-- Start Text Profil -->
+                    <TextView
+                            android:id="@+id/text_button_profil"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="#D046F2"
+                            android:text="@string/button_profil"
+                            android:layout_marginLeft="5dp"
+                            style="@android:style/TextAppearance.DeviceDefault.Medium"
+                            android:layout_gravity="center_vertical"/>
+                    <!-- End Text Profil -->
+
+                </LinearLayout>
+                <!-- End Linear Layout Profil -->
+
+                <!-- Start Linear Layout Content -->
+                <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginBottom="30dp">
+
+                    <!-- Start Linear Layout Row -->
+                    <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_gravity="center">
+
+                        <!-- Start Blank Space -->
+                        <View
+                                android:layout_width="0dp"
+                                android:layout_height="0dp"
+                                android:layout_weight=".1"/>
+                        <!-- End Blank Space -->
+
+                        <!-- Start Linear Layout Alarm Imunisasi -->
+                        <LinearLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:layout_weight="1.3">
+
+                            <!-- Start Linear Layout Alarm Vaksin -->
+                            <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:layout_marginBottom="10dp">
+
+                                <!-- Start Text View Alarm Vaksin -->
+                                <TextView
+                                        android:id="@+id/text_alarm_vaksin"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="#D046F2"
+                                        android:text="@string/alarm_jenis_vaksin"
+                                        style="@android:style/TextAppearance.DeviceDefault.Medium"/>
+                                <!-- End Text View Alarm Vaksin -->
+
+                                <!-- Start Text View Alarm Vaksin -->
+                                <TextView
+                                        android:id="@+id/alarm_vaksin"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="#FF0000"
+                                        android:hint="@string/jenis_vaksin"
+                                        style="@android:style/TextAppearance.DeviceDefault.Medium"
+                                        android:layout_marginLeft="5dp"/>
+                                <!-- End Text View Alarm Vaksin -->
+
+                            </LinearLayout>
+                            <!-- End Linear Layout Alarm Vaksin -->
+
+                            <!-- Start Linear Layout Alarm Bulan -->
+                            <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:layout_marginBottom="10dp">
+
+                                <!-- Start Text View Alarm Bulan -->
+                                <TextView
+                                        android:id="@+id/text_alarm_bulan"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="#D046F2"
+                                        android:text="@string/alarm_bulan"
+                                        style="@android:style/TextAppearance.DeviceDefault.Medium"/>
+                                <!-- End Text View Alarm Bulan -->
+
+                                <!-- Start Text View Alarm Bulan -->
+                                <TextView
+                                        android:id="@+id/alarm_bulan"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="#FF0000"
+                                        android:hint="@string/alarm_bulan"
+                                        style="@android:style/TextAppearance.DeviceDefault.Medium"
+                                        android:layout_marginLeft="5dp"/>
+                                <!-- End Text View Alarm Bulan -->
+
+                            </LinearLayout>
+                            <!-- End Linear Layout Alarm Bulan -->
+
+                            <!-- Start Linear Layout Alarm Switch -->
+                            <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:layout_marginBottom="10dp">
+
+                                <!-- Start Text View Alarm Switch -->
+                                <TextView
+                                        android:id="@+id/text_alarm_switch"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="#D046F2"
+                                        android:text="@string/alarm_imunisasi"
+                                        style="@android:style/TextAppearance.DeviceDefault.Medium"/>
+                                <!-- End Text View Alarm Switch -->
+
+								<!-- Start Toogle Button Alarm Switch -->
+                                <ToggleButton
+                                        android:id="@+id/alarm_switch"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="#FF0000"
+                                        style="@android:style/TextAppearance.DeviceDefault.Medium"
+                                        android:layout_marginLeft="5dp"/>
+                                <!-- End Toogle Button Alarm Switch -->
+
+                            </LinearLayout>
+                            <!-- End Linear Layout Alarm Switch -->
+
+                        </LinearLayout>
+                        <!-- End Linear Layout Alarm Imunisasi -->
+
+                        <!-- Start Blank Space -->
+                        <View
+                                android:layout_width="0dp"
+                                android:layout_height="0dp"
+                                android:layout_weight=".05"/>
+                        <!-- End Blank Space -->
+
+                    </LinearLayout>
+                    <!-- End Linear Layout Row -->
+
+                </LinearLayout>
+                <!-- End Linear Layout Content -->
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!-- Start Relative Layout Footer -->
+        <RelativeLayout
+                android:id="@+id/FooterRelativeLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFF1B5"
+                android:layout_alignParentBottom="true">
+
+            <!-- Start Text Footer -->
+            <TextView
+                    android:id="@+id/text_footer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:textColor="#D046F2"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    android:text="@string/text_footer"
+                    style="@android:style/TextAppearance.DeviceDefault.Medium"/>
+            <!-- End Text Footer -->
+
+        </RelativeLayout>
+        <!-- End Relative Layout Footer -->
+
+    </RelativeLayout>
+
+</ScrollView>

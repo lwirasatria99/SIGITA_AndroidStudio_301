@@ -1,0 +1,290 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\_name
+* .idea\codeStyleSettings.xml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\dataSources.local.xml
+* .idea\dataSources.xml
+* .idea\inspectionProfiles\
+* .idea\inspectionProfiles\Project_Default.xml
+* .idea\inspectionProfiles\profiles_settings.xml
+* .idea\libraries\
+* .idea\libraries\achartengine_1_2_0.xml
+* .idea\libraries\android.xml
+* .idea\libraries\scrollscreenshot_latest.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\uiDesigner.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* SIGITA.iml
+* _gitattributes
+* out\
+* out\production\
+* out\production\SIGITA\
+* out\production\SIGITA\SIGITA.apk
+* out\production\SIGITA\SIGITA.unaligned.apk
+* out\production\SIGITA\com\
+* out\production\SIGITA\com\syafira\
+* out\production\SIGITA\com\syafira\SIGITA\
+* out\production\SIGITA\com\syafira\SIGITA\BuildConfig.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatan$1.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatan$2.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatan$3.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatan.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanDetail$1.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanDetail$2$1.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanDetail$2$2.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanDetail$2.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanDetail.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanHapus.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanTambah$1$1.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanTambah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanTambah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanTambah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanTambah.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanUbah$1$1.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanUbah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanUbah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanUbah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\CatatanKesehatanUbah.class
+* out\production\SIGITA\com\syafira\SIGITA\DBHelper.class
+* out\production\SIGITA\com\syafira\SIGITA\ExpandableHeightGridView.class
+* out\production\SIGITA\com\syafira\SIGITA\Gizi$1.class
+* out\production\SIGITA\com\syafira\SIGITA\Gizi.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasi$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasi$2.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasi$3.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasi.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiDetail$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiDetail$2.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiDetail$3.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiDetail$4.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiDetail$5$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiDetail$5$2.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiDetail$5.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiDetail$6.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiDetail.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiHapus.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiTambah$1$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiTambah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiTambah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiTambah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiTambah.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiUbah$1$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiUbah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiUbah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiUbah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziDokumentasiUbah.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziKalkulatorGizi$1$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziKalkulatorGizi$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziKalkulatorGizi$2.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziKalkulatorGizi$3.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziKalkulatorGizi.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziKalkulatorGiziHasil$1.class
+* out\production\SIGITA\com\syafira\SIGITA\GiziKalkulatorGiziHasil.class
+* out\production\SIGITA\com\syafira\SIGITA\GridViewItem.class
+* out\production\SIGITA\com\syafira\SIGITA\Home$1.class
+* out\production\SIGITA\com\syafira\SIGITA\Home$2.class
+* out\production\SIGITA\com\syafira\SIGITA\Home$3$1.class
+* out\production\SIGITA\com\syafira\SIGITA\Home$3.class
+* out\production\SIGITA\com\syafira\SIGITA\Home$4.class
+* out\production\SIGITA\com\syafira\SIGITA\Home.class
+* out\production\SIGITA\com\syafira\SIGITA\ImageZoom.class
+* out\production\SIGITA\com\syafira\SIGITA\ImageZoomer$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImageZoomer$ScaleListener.class
+* out\production\SIGITA\com\syafira\SIGITA\ImageZoomer.class
+* out\production\SIGITA\com\syafira\SIGITA\Imunisasi$1.class
+* out\production\SIGITA\com\syafira\SIGITA\Imunisasi$2.class
+* out\production\SIGITA\com\syafira\SIGITA\Imunisasi.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiAlarm$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiAlarm$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiAlarm.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiAlarmReceiver.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiJadwal$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiJadwal$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiJadwal.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiJadwalDetail$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiJadwalDetail.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayat$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayat$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayat$3.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayat.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatDetail$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatDetail$2$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatDetail$2$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatDetail$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatDetail.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatHapus.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatTambah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatTambah$2$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatTambah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatTambah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatTambah$4.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatTambah.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatUbah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatUbah$2$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatUbah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatUbah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatUbah$4.class
+* out\production\SIGITA\com\syafira\SIGITA\ImunisasiRiwayatUbah.class
+* out\production\SIGITA\com\syafira\SIGITA\Profil$1.class
+* out\production\SIGITA\com\syafira\SIGITA\Profil$2$1.class
+* out\production\SIGITA\com\syafira\SIGITA\Profil$2$2.class
+* out\production\SIGITA\com\syafira\SIGITA\Profil$2$3.class
+* out\production\SIGITA\com\syafira\SIGITA\Profil$2.class
+* out\production\SIGITA\com\syafira\SIGITA\Profil.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilDetail$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilDetail$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilDetail$3.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilDetail$4$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilDetail$4$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilDetail$4.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilDetail.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilHapus.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscode$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscode$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscode.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$10.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$11.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$12$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$12$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$12.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$13.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$14.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$15.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$16.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$3.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$4.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$5.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$6.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$7.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$8.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek$9.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeCek.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeHapus.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$10.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$11.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$12.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$13.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$14.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$15.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$4.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$5.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$6.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$7.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$8.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah$9.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeTambah.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$10.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$11.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$12.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$13.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$14.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$15.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$4.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$5.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$6.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$7.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$8.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah$9.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilPasscodeUbah.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilTambah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilTambah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilTambah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilTambah$4.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilTambah.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilUbah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilUbah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilUbah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilUbah$4.class
+* out\production\SIGITA\com\syafira\SIGITA\ProfilUbah.class
+* out\production\SIGITA\com\syafira\SIGITA\R$attr.class
+* out\production\SIGITA\com\syafira\SIGITA\R$color.class
+* out\production\SIGITA\com\syafira\SIGITA\R$drawable.class
+* out\production\SIGITA\com\syafira\SIGITA\R$id.class
+* out\production\SIGITA\com\syafira\SIGITA\R$layout.class
+* out\production\SIGITA\com\syafira\SIGITA\R$string.class
+* out\production\SIGITA\com\syafira\SIGITA\R$style.class
+* out\production\SIGITA\com\syafira\SIGITA\R$xml.class
+* out\production\SIGITA\com\syafira\SIGITA\R.class
+* out\production\SIGITA\com\syafira\SIGITA\SessionManager.class
+* out\production\SIGITA\com\syafira\SIGITA\Splash$1.class
+* out\production\SIGITA\com\syafira\SIGITA\Splash.class
+* out\production\SIGITA\com\syafira\SIGITA\TentangSIGITA.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembang$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembang.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleri$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleri$2.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleri$3.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleri.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriDetail$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriDetail$2.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriDetail$3$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriDetail$3$2.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriDetail$3.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriDetail.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriHapus$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriHapus.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriTambah$1$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriTambah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriTambah$2$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriTambah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriTambah$3$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriTambah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriTambah$4.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriTambah.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriUbah$1$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriUbah$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriUbah$2$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriUbah$2.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriUbah$3$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriUbah$3.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriUbah$4.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangGaleriUbah.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangTahapan$1.class
+* out\production\SIGITA\com\syafira\SIGITA\TumbuhKembangTahapan.class
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\achartengine-1.2.0.jar => app\libs\achartengine-1.2.0.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

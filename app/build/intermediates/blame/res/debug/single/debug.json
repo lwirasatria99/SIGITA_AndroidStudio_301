@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_ok.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_ok.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_splashscreen.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_imunisasi_riwayatimunisasi_hapus.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\imunisasi_riwayatimunisasi_hapus.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_smallnotification.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_smallnotification.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gizi_dokumentasigizi.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\gizi_dokumentasigizi.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tumbang_galeri_grid.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\tumbang_galeri_grid.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_dokumentasigizi.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_dokumentasigizi.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pin_txt_bg.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\pin_txt_bg.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_passcode_lupa.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_passcode_lupa.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tumbang_galeri_tambah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\tumbang_galeri_tambah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tumbang_galeri_detail.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\tumbang_galeri_detail.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_tambah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_tambah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gizi.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\gizi.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_catatankesehatan.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\catatankesehatan.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_row.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\border_row.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dottedline.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\dottedline.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tumbang_tahapantumbang.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\tumbang_tahapantumbang.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_profil.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_profil.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_galeritumbang.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_galeritumbang.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_notification.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_notification.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_lakilaki.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_lakilaki.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_detail.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_detail.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_catatankesehatan_tambah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\catatankesehatan_tambah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tumbang.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\tumbang.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_imunisasi_riwayatimunisasi.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\imunisasi_riwayatimunisasi.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_tahapantumbang.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_tahapantumbang.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_imunisasi.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\imunisasi.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_detail.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_detail.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_batal.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_batal.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_imunisasi_jadwalimunisasi_detail.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\imunisasi_jadwalimunisasi_detail.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gizi_kalkulatorgizi_hasil.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\gizi_kalkulatorgizi_hasil.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_simpan.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_simpan.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_pilihprofil.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_pilihprofil.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_hitung.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_hitung.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_tambah.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_tambah.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_passcode.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_passcode.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_ubah.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_ubah.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_catatankesehatan_detail.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\catatankesehatan_detail.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_imunisasi.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_imunisasi.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tumbang_galeri_hapus.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\tumbang_galeri_hapus.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_hapus.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_hapus.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_imunisasi_jadwalimunisasi.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\imunisasi_jadwalimunisasi.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_table.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\border_table.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pin_txt_bg_star.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\pin_txt_bg_star.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_logo.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_logo.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_grid.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\home_grid.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tumbang_galeri.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\tumbang_galeri.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tulisan_logo.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tulisan_logo.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_kalkulatorgizi.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_kalkulatorgizi.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_jadwalimunisasi.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_jadwalimunisasi.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_tambahfoto.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_tambahfoto.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_gizi.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_gizi.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tombol_pilih.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\tombol_pilih.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gizi_dokumentasigizi_detail.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\gizi_dokumentasigizi_detail.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gizi_kalkulatorgizi.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\gizi_kalkulatorgizi.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_hapus.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_hapus.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tumbang_galeri_ubah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\tumbang_galeri_ubah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_imunisasi_riwayatimunisasi_ubah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\imunisasi_riwayatimunisasi_ubah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_tumbuhkembang.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_tumbuhkembang.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_rounded.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\button_rounded.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gizi_dokumentasigizi_tambah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\gizi_dokumentasigizi_tambah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_imunisasi_alarm.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\imunisasi_alarm.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_alert_akses.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\alert_akses.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_passcode_cek.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_passcode_cek.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_imunisasi_riwayatimunisasi_detail.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\imunisasi_riwayatimunisasi_detail.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gizi_dokumentasigizi_ubah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\gizi_dokumentasigizi_ubah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_imunisasi_riwayatimunisasi_tambah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\imunisasi_riwayatimunisasi_tambah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_layout.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_layout.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_passcode.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_passcode.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gizi_dokumenasigizi_hapus.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\gizi_dokumenasigizi_hapus.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_riwayatimunisasi.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_riwayatimunisasi.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_catatankesehatan_ubah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\catatankesehatan_ubah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_ubah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_ubah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_passcode.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_passcode.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_perempuan.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_perempuan.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_catatankesehatan_hapus.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\catatankesehatan_hapus.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_alarmimunisasi.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_alarmimunisasi.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_tambahprofil.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_tambahprofil.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tentang_sigita.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\tentang_sigita.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profil_passcode_tambah.xml.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\layout\\profil_passcode_tambah.xml"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_catatankesehatan.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_catatankesehatan.png"
+    },
+    {
+        "merged": "D:\\Project_Android\\SIGITA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_logopanjang.png.flat",
+        "source": "D:\\Project_Android\\SIGITA1\\app\\src\\main\\res\\drawable\\icon_logopanjang.png"
+    }
+]
